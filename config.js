@@ -1,6 +1,6 @@
 /**
    * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
+   * Contact Me on wa.me/085272744623
    * Follow https://github.com/DikaArdnt
 */
 
@@ -18,11 +18,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283167714830','62895336722950','6287721317870','6288292024190']
-global.premium = ['6288292024190']
-global.packname = 'Hisoka Morrow'
+global.owner = ['6285272744623','6288271109247','6288708018815','6288271159837']
+global.premium = ['6285272744623']
+global.packname = 'Bibz-bots'
 global.author = 'WhatsApp Bot'
-global.sessionName = 'hisoka'
+global.sessionName = 'bibz bot'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
